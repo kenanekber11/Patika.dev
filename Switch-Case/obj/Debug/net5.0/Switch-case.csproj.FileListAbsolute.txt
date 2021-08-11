@@ -1,0 +1,16 @@
+C:\Users\Kenan\Desktop\Patika\Switch-Case\bin\Debug\net5.0\Switch-case.exe
+C:\Users\Kenan\Desktop\Patika\Switch-Case\bin\Debug\net5.0\Switch-case.deps.json
+C:\Users\Kenan\Desktop\Patika\Switch-Case\bin\Debug\net5.0\Switch-case.runtimeconfig.json
+C:\Users\Kenan\Desktop\Patika\Switch-Case\bin\Debug\net5.0\Switch-case.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\Patika\Switch-Case\bin\Debug\net5.0\Switch-case.dll
+C:\Users\Kenan\Desktop\Patika\Switch-Case\bin\Debug\net5.0\ref\Switch-case.dll
+C:\Users\Kenan\Desktop\Patika\Switch-Case\bin\Debug\net5.0\Switch-case.pdb
+C:\Users\Kenan\Desktop\Patika\Switch-Case\obj\Debug\net5.0\Switch-case.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Patika\Switch-Case\obj\Debug\net5.0\Switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Patika\Switch-Case\obj\Debug\net5.0\Switch-case.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Patika\Switch-Case\obj\Debug\net5.0\Switch-case.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Patika\Switch-Case\obj\Debug\net5.0\Switch-case.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Patika\Switch-Case\obj\Debug\net5.0\Switch-case.dll
+C:\Users\Kenan\Desktop\Patika\Switch-Case\obj\Debug\net5.0\ref\Switch-case.dll
+C:\Users\Kenan\Desktop\Patika\Switch-Case\obj\Debug\net5.0\Switch-case.pdb
+C:\Users\Kenan\Desktop\Patika\Switch-Case\obj\Debug\net5.0\Switch-case.genruntimeconfig.cache
