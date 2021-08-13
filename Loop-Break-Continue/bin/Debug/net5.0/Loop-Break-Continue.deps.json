@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Loop-Break-Continue/1.0.0": {
+        "runtime": {
+          "Loop-Break-Continue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loop-Break-Continue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\bin\Debug\net5.0\Loop-Break-Continue.exe
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\bin\Debug\net5.0\Loop-Break-Continue.deps.json
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\bin\Debug\net5.0\Loop-Break-Continue.runtimeconfig.json
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\bin\Debug\net5.0\Loop-Break-Continue.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\bin\Debug\net5.0\Loop-Break-Continue.dll
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\bin\Debug\net5.0\ref\Loop-Break-Continue.dll
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\bin\Debug\net5.0\Loop-Break-Continue.pdb
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\obj\Debug\net5.0\Loop-Break-Continue.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\obj\Debug\net5.0\Loop-Break-Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\obj\Debug\net5.0\Loop-Break-Continue.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\obj\Debug\net5.0\Loop-Break-Continue.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\obj\Debug\net5.0\Loop-Break-Continue.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\obj\Debug\net5.0\Loop-Break-Continue.dll
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\obj\Debug\net5.0\ref\Loop-Break-Continue.dll
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\obj\Debug\net5.0\Loop-Break-Continue.pdb
+C:\Users\Kenan\Desktop\Patika\Loop-Break-Continue\obj\Debug\net5.0\Loop-Break-Continue.genruntimeconfig.cache
