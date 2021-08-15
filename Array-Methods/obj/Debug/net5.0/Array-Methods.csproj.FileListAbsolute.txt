@@ -1,0 +1,16 @@
+C:\Users\Kenan\Desktop\Patika\Array-Methods\bin\Debug\net5.0\Array-Methods.exe
+C:\Users\Kenan\Desktop\Patika\Array-Methods\bin\Debug\net5.0\Array-Methods.deps.json
+C:\Users\Kenan\Desktop\Patika\Array-Methods\bin\Debug\net5.0\Array-Methods.runtimeconfig.json
+C:\Users\Kenan\Desktop\Patika\Array-Methods\bin\Debug\net5.0\Array-Methods.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\Patika\Array-Methods\bin\Debug\net5.0\Array-Methods.dll
+C:\Users\Kenan\Desktop\Patika\Array-Methods\bin\Debug\net5.0\ref\Array-Methods.dll
+C:\Users\Kenan\Desktop\Patika\Array-Methods\bin\Debug\net5.0\Array-Methods.pdb
+C:\Users\Kenan\Desktop\Patika\Array-Methods\obj\Debug\net5.0\Array-Methods.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Patika\Array-Methods\obj\Debug\net5.0\Array-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Patika\Array-Methods\obj\Debug\net5.0\Array-Methods.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Patika\Array-Methods\obj\Debug\net5.0\Array-Methods.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Patika\Array-Methods\obj\Debug\net5.0\Array-Methods.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Patika\Array-Methods\obj\Debug\net5.0\Array-Methods.dll
+C:\Users\Kenan\Desktop\Patika\Array-Methods\obj\Debug\net5.0\ref\Array-Methods.dll
+C:\Users\Kenan\Desktop\Patika\Array-Methods\obj\Debug\net5.0\Array-Methods.pdb
+C:\Users\Kenan\Desktop\Patika\Array-Methods\obj\Debug\net5.0\Array-Methods.genruntimeconfig.cache
