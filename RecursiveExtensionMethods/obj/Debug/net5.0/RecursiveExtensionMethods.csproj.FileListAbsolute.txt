@@ -1,0 +1,16 @@
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\bin\Debug\net5.0\RecursiveExtensionMethods.exe
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\bin\Debug\net5.0\RecursiveExtensionMethods.deps.json
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\bin\Debug\net5.0\RecursiveExtensionMethods.runtimeconfig.json
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\bin\Debug\net5.0\RecursiveExtensionMethods.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\bin\Debug\net5.0\RecursiveExtensionMethods.dll
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\bin\Debug\net5.0\ref\RecursiveExtensionMethods.dll
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\bin\Debug\net5.0\RecursiveExtensionMethods.pdb
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\obj\Debug\net5.0\RecursiveExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\obj\Debug\net5.0\RecursiveExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\obj\Debug\net5.0\RecursiveExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\obj\Debug\net5.0\RecursiveExtensionMethods.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\obj\Debug\net5.0\RecursiveExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\obj\Debug\net5.0\RecursiveExtensionMethods.dll
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\obj\Debug\net5.0\ref\RecursiveExtensionMethods.dll
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\obj\Debug\net5.0\RecursiveExtensionMethods.pdb
+C:\Users\Kenan\Desktop\Patika\RecursiveExtensionMethods\obj\Debug\net5.0\RecursiveExtensionMethods.genruntimeconfig.cache
