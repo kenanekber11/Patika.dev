@@ -1,0 +1,16 @@
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\bin\Debug\net5.0\StringMathMethods.exe
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\bin\Debug\net5.0\StringMathMethods.deps.json
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\bin\Debug\net5.0\StringMathMethods.runtimeconfig.json
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\bin\Debug\net5.0\StringMathMethods.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\bin\Debug\net5.0\StringMathMethods.dll
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\bin\Debug\net5.0\ref\StringMathMethods.dll
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\bin\Debug\net5.0\StringMathMethods.pdb
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\obj\Debug\net5.0\StringMathMethods.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\obj\Debug\net5.0\StringMathMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\obj\Debug\net5.0\StringMathMethods.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\obj\Debug\net5.0\StringMathMethods.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\obj\Debug\net5.0\StringMathMethods.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\obj\Debug\net5.0\StringMathMethods.dll
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\obj\Debug\net5.0\ref\StringMathMethods.dll
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\obj\Debug\net5.0\StringMathMethods.pdb
+C:\Users\Kenan\Desktop\Patika\StringMathMethods\obj\Debug\net5.0\StringMathMethods.genruntimeconfig.cache
