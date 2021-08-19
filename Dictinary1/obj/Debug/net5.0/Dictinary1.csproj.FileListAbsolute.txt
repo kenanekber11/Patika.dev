@@ -1,0 +1,16 @@
+C:\Users\Kenan\Desktop\Patika\Dictinary1\bin\Debug\net5.0\Dictinary1.exe
+C:\Users\Kenan\Desktop\Patika\Dictinary1\bin\Debug\net5.0\Dictinary1.deps.json
+C:\Users\Kenan\Desktop\Patika\Dictinary1\bin\Debug\net5.0\Dictinary1.runtimeconfig.json
+C:\Users\Kenan\Desktop\Patika\Dictinary1\bin\Debug\net5.0\Dictinary1.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\Patika\Dictinary1\bin\Debug\net5.0\Dictinary1.dll
+C:\Users\Kenan\Desktop\Patika\Dictinary1\bin\Debug\net5.0\ref\Dictinary1.dll
+C:\Users\Kenan\Desktop\Patika\Dictinary1\bin\Debug\net5.0\Dictinary1.pdb
+C:\Users\Kenan\Desktop\Patika\Dictinary1\obj\Debug\net5.0\Dictinary1.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Patika\Dictinary1\obj\Debug\net5.0\Dictinary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Patika\Dictinary1\obj\Debug\net5.0\Dictinary1.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Patika\Dictinary1\obj\Debug\net5.0\Dictinary1.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Patika\Dictinary1\obj\Debug\net5.0\Dictinary1.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Patika\Dictinary1\obj\Debug\net5.0\Dictinary1.dll
+C:\Users\Kenan\Desktop\Patika\Dictinary1\obj\Debug\net5.0\ref\Dictinary1.dll
+C:\Users\Kenan\Desktop\Patika\Dictinary1\obj\Debug\net5.0\Dictinary1.pdb
+C:\Users\Kenan\Desktop\Patika\Dictinary1\obj\Debug\net5.0\Dictinary1.genruntimeconfig.cache
