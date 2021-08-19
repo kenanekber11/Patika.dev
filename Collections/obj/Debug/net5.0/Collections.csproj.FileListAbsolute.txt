@@ -1,0 +1,16 @@
+C:\Users\Kenan\Desktop\Patika\Collections\obj\Debug\net5.0\Collections.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Patika\Collections\obj\Debug\net5.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Patika\Collections\obj\Debug\net5.0\Collections.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Patika\Collections\obj\Debug\net5.0\Collections.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Patika\Collections\obj\Debug\net5.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Patika\Collections\bin\Debug\net5.0\Collections.exe
+C:\Users\Kenan\Desktop\Patika\Collections\bin\Debug\net5.0\Collections.deps.json
+C:\Users\Kenan\Desktop\Patika\Collections\bin\Debug\net5.0\Collections.runtimeconfig.json
+C:\Users\Kenan\Desktop\Patika\Collections\bin\Debug\net5.0\Collections.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\Patika\Collections\bin\Debug\net5.0\Collections.dll
+C:\Users\Kenan\Desktop\Patika\Collections\bin\Debug\net5.0\ref\Collections.dll
+C:\Users\Kenan\Desktop\Patika\Collections\bin\Debug\net5.0\Collections.pdb
+C:\Users\Kenan\Desktop\Patika\Collections\obj\Debug\net5.0\Collections.dll
+C:\Users\Kenan\Desktop\Patika\Collections\obj\Debug\net5.0\ref\Collections.dll
+C:\Users\Kenan\Desktop\Patika\Collections\obj\Debug\net5.0\Collections.pdb
+C:\Users\Kenan\Desktop\Patika\Collections\obj\Debug\net5.0\Collections.genruntimeconfig.cache
