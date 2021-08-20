@@ -1,0 +1,16 @@
+C:\Users\Kenan\Desktop\Patika\Enum__\bin\Debug\net5.0\Enum__.exe
+C:\Users\Kenan\Desktop\Patika\Enum__\bin\Debug\net5.0\Enum__.deps.json
+C:\Users\Kenan\Desktop\Patika\Enum__\bin\Debug\net5.0\Enum__.runtimeconfig.json
+C:\Users\Kenan\Desktop\Patika\Enum__\bin\Debug\net5.0\Enum__.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\Patika\Enum__\bin\Debug\net5.0\Enum__.dll
+C:\Users\Kenan\Desktop\Patika\Enum__\bin\Debug\net5.0\ref\Enum__.dll
+C:\Users\Kenan\Desktop\Patika\Enum__\bin\Debug\net5.0\Enum__.pdb
+C:\Users\Kenan\Desktop\Patika\Enum__\obj\Debug\net5.0\Enum__.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Patika\Enum__\obj\Debug\net5.0\Enum__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Patika\Enum__\obj\Debug\net5.0\Enum__.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Patika\Enum__\obj\Debug\net5.0\Enum__.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Patika\Enum__\obj\Debug\net5.0\Enum__.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Patika\Enum__\obj\Debug\net5.0\Enum__.dll
+C:\Users\Kenan\Desktop\Patika\Enum__\obj\Debug\net5.0\ref\Enum__.dll
+C:\Users\Kenan\Desktop\Patika\Enum__\obj\Debug\net5.0\Enum__.pdb
+C:\Users\Kenan\Desktop\Patika\Enum__\obj\Debug\net5.0\Enum__.genruntimeconfig.cache
