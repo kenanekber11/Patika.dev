@@ -1,0 +1,16 @@
+C:\Users\Kenan\Desktop\Patika\Struct_5\bin\Debug\net5.0\Struct_5.exe
+C:\Users\Kenan\Desktop\Patika\Struct_5\bin\Debug\net5.0\Struct_5.deps.json
+C:\Users\Kenan\Desktop\Patika\Struct_5\bin\Debug\net5.0\Struct_5.runtimeconfig.json
+C:\Users\Kenan\Desktop\Patika\Struct_5\bin\Debug\net5.0\Struct_5.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\Patika\Struct_5\bin\Debug\net5.0\Struct_5.dll
+C:\Users\Kenan\Desktop\Patika\Struct_5\bin\Debug\net5.0\ref\Struct_5.dll
+C:\Users\Kenan\Desktop\Patika\Struct_5\bin\Debug\net5.0\Struct_5.pdb
+C:\Users\Kenan\Desktop\Patika\Struct_5\obj\Debug\net5.0\Struct_5.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Patika\Struct_5\obj\Debug\net5.0\Struct_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Patika\Struct_5\obj\Debug\net5.0\Struct_5.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Patika\Struct_5\obj\Debug\net5.0\Struct_5.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Patika\Struct_5\obj\Debug\net5.0\Struct_5.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Patika\Struct_5\obj\Debug\net5.0\Struct_5.dll
+C:\Users\Kenan\Desktop\Patika\Struct_5\obj\Debug\net5.0\ref\Struct_5.dll
+C:\Users\Kenan\Desktop\Patika\Struct_5\obj\Debug\net5.0\Struct_5.pdb
+C:\Users\Kenan\Desktop\Patika\Struct_5\obj\Debug\net5.0\Struct_5.genruntimeconfig.cache
