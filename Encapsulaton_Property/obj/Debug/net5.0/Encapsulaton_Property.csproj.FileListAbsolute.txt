@@ -1,0 +1,16 @@
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\bin\Debug\net5.0\Encapsulaton_Property.exe
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\bin\Debug\net5.0\Encapsulaton_Property.deps.json
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\bin\Debug\net5.0\Encapsulaton_Property.runtimeconfig.json
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\bin\Debug\net5.0\Encapsulaton_Property.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\bin\Debug\net5.0\Encapsulaton_Property.dll
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\bin\Debug\net5.0\ref\Encapsulaton_Property.dll
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\bin\Debug\net5.0\Encapsulaton_Property.pdb
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\obj\Debug\net5.0\Encapsulaton_Property.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\obj\Debug\net5.0\Encapsulaton_Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\obj\Debug\net5.0\Encapsulaton_Property.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\obj\Debug\net5.0\Encapsulaton_Property.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\obj\Debug\net5.0\Encapsulaton_Property.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\obj\Debug\net5.0\Encapsulaton_Property.dll
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\obj\Debug\net5.0\ref\Encapsulaton_Property.dll
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\obj\Debug\net5.0\Encapsulaton_Property.pdb
+C:\Users\Kenan\Desktop\Patika\Encapsulaton_Property\obj\Debug\net5.0\Encapsulaton_Property.genruntimeconfig.cache
